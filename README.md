@@ -39,6 +39,7 @@ start learning from apps and google, and doing a lot of projects here on github 
 Alex Fagarasanu,
 
 Project Link: [https://github.com/FagaBV/Mimo---Front-End-Portofolio](https://github.com/FagaBV/Mimo---Front-End-Portofolio)
+Live Preview: [https://fagabv.github.io/Mimo-Porotfolio/(https://fagabv.github.io/Mimo-Porotfolio/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
